@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
         // Update the modal's content. We'll use jQuery here, but you could use a data binding library or other methods instead.
         
         var modal = $(this)
-        modal.find('.modal-title').text('New message to ' + recipient)
+        modal.find('.modal-title').text('New messag to ' + recipient)
         modal.find('.modal-body input').val(recipient)
 
         console.log(modal);
