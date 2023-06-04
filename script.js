@@ -3,105 +3,105 @@ let state = {
         {
             "id": "1",
             "name": "file name",
-            "fullName": "images/1.jpg",
+            "fullName": "Images/1.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "2",
             "name": "file name",
-            "fullName": "images/2.jpg",
+            "fullName": "Images/2.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "3",
             "name": "file name",
-            "fullName": "images/3.jpg",
+            "fullName": "Images/3.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "4",
             "name": "file name",
-            "fullName": "images/4.jpg",
+            "fullName": "Images/4.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "5",
             "name": "file name",
-            "fullName": "images/5.jpg",
+            "fullName": "Images/5.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "6",
             "name": "file name",
-            "fullName": "images/6.jpg",
+            "fullName": "Images/6.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "7",
             "name": "file name",
-            "fullName": "images/7.jpg",
+            "fullName": "Images/7.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "8",
             "name": "file name",
-            "fullName": "images/8.jpg",
+            "fullName": "Images/8.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "9",
             "name": "file name",
-            "fullName": "images/9.jpg",
+            "fullName": "Images/9.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "10",
             "name": "file name",
-            "fullName": "images/10.jpg",
+            "fullName": "Images/10.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "11",
             "name": "file name",
-            "fullName": "images/11.jpg",
+            "fullName": "Images/11.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "12",
             "name": "file name",
-            "fullName": "images/12.jpg",
+            "fullName": "Images/12.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "13",
             "name": "file name",
-            "fullName": "images/13.jpg",
+            "fullName": "Images/13.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "14",
             "name": "file name",
-            "fullName": "images/14.jpg",
+            "fullName": "Images/14.jpg",
             "created": 1685135705184,
             "comments": []
         },
         {
             "id": "15",
             "name": "file name",
-            "fullName": "images/15.jpg",
+            "fullName": "Images/15.jpg",
             "created": 1685135705184,
             "comments": []
         }
