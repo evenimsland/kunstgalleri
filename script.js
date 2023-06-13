@@ -2,140 +2,140 @@ let state = {
     "images": [
         {
             "id": "20",
-            "name": "file name",
+            "name": "gutta på butta",
             "fullName": "Images/20.jpg",
             "created": 1685974812000,
             "comments": []
         },
         {
             "id": "19",
-            "name": "file name",
+            "name": "david under betongpinnen",
             "fullName": "Images/19.jpg",
             "created": 1684754412000,
             "comments": []
         },
         {
             "id": "18",
-            "name": "file name",
+            "name": "heia fedrelandet",
             "fullName": "Images/18.jpg",
             "created": 1684321213000,
             "comments": []
         },
         {
             "id": "17",
-            "name": "file name",
+            "name": "leo og aupairen",
             "fullName": "Images/17.jpg",
             "created": 1683945031000,
             "comments": []
         },
         {
             "id": "16",
-            "name": "file name",
+            "name": "tjuvradd gjør forretninger",
             "fullName": "Images/16.jpg",
             "created": 1683410694000,
             "comments": []
         },
         {
             "id": "15",
-            "name": "file namE",
+            "name": "naver spiller på klaver",
             "fullName": "Images/15.jpg",
             "created": 1683407685000,
             "comments": []
         },
         {
             "id": "14",
-            "name": "file name",
+            "name": "brodern svever",
             "fullName": "Images/14.jpg",
             "created": 1682869019000,
             "comments": []
         },
         {
             "id": "13",
-            "name": "file name",
+            "name": "se på han da",
             "fullName": "Images/13.jpg",
             "created": 1682201202000,
             "comments": []
         },
         {
             "id": "12",
-            "name": "file name",
+            "name": "tour de dans",
             "fullName": "Images/12.jpg",
             "created": 1682083800000,
             "comments": []
         },
         {
             "id": "11",
-            "name": "file name",
+            "name": "grillings med databrus",
             "fullName": "Images/11.jpg",
             "created": 1681930934000,
             "comments": []
         },
         {
             "id": "10",
-            "name": "file name",
+            "name": "powderday fòshoo",
             "fullName": "Images/10.jpg",
             "created": 1679742652000,
             "comments": []
         },
         {
             "id": "9",
-            "name": "file name",
+            "name": "hun fra bygg og anlegg",
             "fullName": "Images/9.jpg",
             "created": 1679181323000,
             "comments": []
         },
         {
             "id": "8",
-            "name": "file name",
+            "name": "valter hvitt",
             "fullName": "Images/8.jpg",
             "created": 1679177506000,
             "comments": []
         },
         {
             "id": "7",
-            "name": "file name",
+            "name": "dårlige avgjørelser",
             "fullName": "Images/7.jpg",
             "created": 1679166040000,
             "comments": []
         },
         {
             "id": "6",
-            "name": "file name",
+            "name": "addah, han kan skøyte",
             "fullName": "Images/6.jpg",
             "created": 1678982515000,
             "comments": []
         },
         {
             "id": "5",
-            "name": "file name",
+            "name": "hvor er vannet?",
             "fullName": "Images/5.jpg",
             "created": 1675547158000,
             "comments": []
         },
         {
             "id": "4",
-            "name": "file name",
+            "name": "crusern på tour de finans",
             "fullName": "Images/4.jpg",
             "created": 1675241245000,
             "comments": []
         },
         {
             "id": "3",
-            "name": "file name",
+            "name": "yo",
             "fullName": "Images/3.jpg",
             "created": 1674852795000,
             "comments": []
         },
         {
             "id": "2",
-            "name": "file name",
+            "name": "skolen ass, ikke helt min greie",
             "fullName": "Images/2.jpg",
             "created": 1673439656000,
             "comments": []
         },
         {
             "id": "1",
-            "name": "file name",
+            "name": "hvor er syra?",
             "fullName": "Images/1.jpg",
             "created": 1667597597000,
             "comments": []
