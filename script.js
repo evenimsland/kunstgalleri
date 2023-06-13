@@ -1,6 +1,13 @@
 let state = {
     "images": [
         {
+            "id": "21",
+            "name": "leid vekk, mann",
+            "fullName": "Images/21.jpg",
+            "created": 1686338263000,
+            "comments": []
+        },
+        {
             "id": "20",
             "name": "gutta på butta",
             "fullName": "Images/20.jpg",
