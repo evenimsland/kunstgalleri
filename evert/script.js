@@ -150,7 +150,7 @@ let state = {
         {
             "id": "1",
             "name": "hvor er syra?",
-            "fullName": "Images/1.jpg",
+            "fullName": "1.jpg",
             "created": 1667597597000,
             "comments": []
         }
